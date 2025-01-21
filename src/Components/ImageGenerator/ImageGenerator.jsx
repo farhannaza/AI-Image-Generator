@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
-import 'C:/Users/cyber/OneDrive - Universiti Putra Malaysia/Desktop/WHERE THINGS STARTED/ai-image-generator/src/Components/ImageGenerator/ImageGenerator.css'
-import default_image from 'C:/Users/cyber/OneDrive - Universiti Putra Malaysia/Desktop/WHERE THINGS STARTED/ai-image-generator/src/Components/Assests/default_image.svg'
+import './ImageGenerator.css'
+import default_image from 'D:/Dev/machilleneous/AI-Image-Generator/src/Components/Assests/default_image.svg'
 
 const ImageGenerator = () => {
 
